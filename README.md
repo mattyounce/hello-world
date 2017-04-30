@@ -10,7 +10,7 @@ My life's passion is to develop and apply mathematics, tools, processes and apps
 
 One of the best tools is modeling, in the sense of a simplified ontology with semantics and inference capability, to help visualize the possible solutions/goals/decisions compelled in a situation.
 
-We do this by sharing through open source, and I yaern to finally be part of that community!!
+We do this by sharing through open source, and I yearn to finally be part of that community!!
 
 Sincerely,
 
